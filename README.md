@@ -318,8 +318,6 @@ This project is built using **Vite**. The main tech stack is as follows:
 *   **Firebase Firestore:** For storing form and response data, with access control via security rules.
 *   **ESLint / TypeScript ESLint:** For static code analysis and maintaining code quality.
 
-For more detailed architecture and design philosophy, please refer to `CODE_DETAILS.md`.
-
 ## Future Roadmap
 
 ## Contribution
