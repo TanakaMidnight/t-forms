@@ -279,14 +279,6 @@ This section explains how to set up and run T-Forms in the local environment.
 
     After the deployment is complete, the Firebase Hosting URL will be displayed.
 
-    > ⚠️ If you encounter errors like "Uncaught ReferenceError: Cannot access '_m' before initialization" after deployment,
-    > try one of the following:
-    > 1. Comment out or delete the `manualChunks` setting in `vite.config.ts`, then rebuild and redeploy
-    > 2. Delete `node_modules` and `dist`, then run `npm install` → `npm run build` again
-    > 3. Update dependencies to the latest version with `npm update`
-    etc.
-
-
 ## Usage
 
 1.  **Creating a Form:**
